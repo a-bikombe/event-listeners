@@ -1,0 +1,25 @@
+textarea {
+    border:1px solid;
+    border-color: #aaa;
+    border-radius: 3px;
+    padding: 3px;
+    font-size: 1.2em;
+    width: 200px;
+    height: 100px;
+    
+}
+
+.char-count-textarea {
+    display:block;
+    margin: 10px;
+    padding: 2px;
+}
+
+.char-count-error-msg-invalid {
+    display: inline;
+    color: red;
+}
+
+.char-count-error-msg-valid {
+    display: none;
+}

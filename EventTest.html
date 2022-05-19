@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+    
+    <head>
+        <meta charset="utf-8">
+        <title>Event Tests</title>
+        <link href="css/EventTestCSS.css" rel="stylesheet">
+        <script src="js/EventTestJS.js" defer="defer"></script>
+    </head>
+
+    <body>
+
+        <h1>Event Tests</h1>
+
+        <div class="click-count">
+            <span>click count: <output id="count">0</output></span>
+            <button id="btn">Go</button>
+        </div>
+        
+        <div class="char-count-textarea">
+            <label for="story" id="textarea-label">Story</label>
+            <textarea name="story" minlength="10" maxlength="100" id="story"></textarea>
+            <div class="progress-bar">
+                <span id="char-count">Character Count: <output id="txtareaValCount">0</output></span>
+                <progress id="progress-bar" value="0">0%</progress>
+                <span id="char-count-error-msg" class="char-count-error-msg-invalid">Character Count Too Low</span>
+            </div>
+        </div>
+        
+    </body>
+
+</html>
