@@ -12,7 +12,7 @@ Practice using JavaScript Event Listeners.
 
 ## Getting Started
 
-* Deployment: [GitHub Pages](https://a-bikombe.github.io/event-listeners/)
+Deployment: [GitHub Pages](https://a-bikombe.github.io/event-listeners/)
 
 ## Version History
 
