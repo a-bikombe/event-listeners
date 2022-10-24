@@ -12,12 +12,6 @@ Practice using JavaScript Event Listeners.
 
 ## Getting Started
 
-### Dependencies
-
-No dependencies.
-
-### Setup
-
 * Deployment: [GitHub Pages](https://a-bikombe.github.io/event-listeners/)
 
 ## Version History
